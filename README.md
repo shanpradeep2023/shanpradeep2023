@@ -1,46 +1,31 @@
-Hey there 👋, I'm Shan Pradeep R!
-
-
-
-Glad to see you here!   
-I am a 3rd year B.Tech in Computer Science and Engineering student at NMAM Institute of Engineering.
-
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by 
-the challenge of finding solutions, with a strong foundation in Java, Spring,Spring Boot, Srvlets, JSPs,  etc. 
-I've been learning Backend, with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find
-me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me @shanpradeep2023 for all things tech or just to say hello! Let's shape the future
-of tech together. 🌟
+[![MasterHead](https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c)](https://Hikigaya69.io)
+<h1 align="center">Hi 👋, I'm Shan Pradeep R</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hikigaya69&label=Profile%20views&color=0e75b6&style=flat" alt="hikigaya69" /> </p>
 
-Talking about Personal Stuff:
-🛠   I’m currently pursuing B.tech CSE
-🚀   I’m currently exploring Java, Spring Boot etc.
-💬   Ask me anything here! I am happy to help.
-👾   Fun fact: Equal is Not Always Equal in JS.
-📫   Reach me out: shanpradeep2023@gmail.com.
+- 🌱 I’m currently learning **Express js,Node.js,MongoDB etc**
 
+- 💬 Ask me about **node js,JavaScript,Java,SpringBoot**
 
+- 📫 How to reach me **shanpradeep2023@gmail.com**
 
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1aDDD5JiZG-orNyHtrjVe-cVif9hQsxzu/edit?usp=sharing&ouid=109741548069121962462&rtpof=true&sd=true](https://docs.google.com/document/d/1aDDD5JiZG-orNyHtrjVe-cVif9hQsxzu/edit?usp=sharing&ouid=109741548069121962462&rtpof=true&sd=true) -->
 
-My Absolute Favorites:
-💻   I love exploring new technologies and building cool stuff.
-📰   Reading, writing & watching Tech Stuff whenever possible.
-🍕   Coding...
+- ⚡ Fun fact **I think I will become the most hated programmer**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://twitter.com/yashashegde02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashashegde02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashas hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas hegde" height="30" width="40" /></a> -->
+<!-- <a href="https://fb.com/yashas hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashas hegde" height="30" width="40" /></a>
+<a href="https://instagram.com/bugadi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bugadi02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yashas hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashas hegde" height="30" width="40" /></a> -->
+</p>
 
-
-Languages and Tools:
-Java  python C C++ react sql git terminal
-
-
-<!---
-shanpradeep2023/shanpradeep2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
